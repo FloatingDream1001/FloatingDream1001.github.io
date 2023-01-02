@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/2022/12/31/hello-hexo/"/>
+      <url>/2022/12/31/hello-hexo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><p><strong>今天是 2022 年的最后一天，加油 2023，再见 2022</strong></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友联</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
