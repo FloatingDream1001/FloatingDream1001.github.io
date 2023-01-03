@@ -43,17 +43,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<!-- GitCalendar容器<div id="gitZone"></div> -->]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -66,10 +55,21 @@
     
     <entry>
       <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <link href="/js/runtime1.js"/>
+      <url>/js/runtime1.js</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;}#page-header {    background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 一级菜单居中 */#nav .menus_items {  position: absolute !important;  width: fit-content !important;  left: 50% !important;  transform: translateX(-50%) !important;}/* 子菜单横向展示 */#nav .menus_items .menus_item:hover .menus_item_child {  display: flex !important;}/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(5) .menus_item_child {  left: -125px;}]]></content>
+        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2019-04-17 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (number(time[2])>7)){    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp" title="距离百年老店也就差不到一百年~"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript" title="这个点了应该去睡觉啦，熬夜对身体不好哦"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);</22)>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- GitCalendar容器<div id="gitZone"></div> -->]]></content>
       
     </entry>
     
@@ -87,20 +87,20 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;}#page-header {    background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 一级菜单居中 */#nav .menus_items {  position: absolute !important;  width: fit-content !important;  left: 50% !important;  transform: translateX(-50%) !important;}/* 子菜单横向展示 */#nav .menus_items .menus_item:hover .menus_item_child {  display: flex !important;}/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(5) .menus_item_child {  left: -38px;}]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -131,11 +131,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/runtime1.js"/>
-      <url>/js/runtime1.js</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2019-04-17 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (number(time[2])>7)){    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp" title="距离百年老店也就差不到一百年~"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript" title="这个点了应该去睡觉啦，熬夜对身体不好哦"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);</22)>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
