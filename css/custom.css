@@ -40,6 +40,9 @@
 .menus_items .menus_item:nth-child(3) .menus_item_child {
   left: -80px;
 }
+.menus_items .menus_item:nth-child(5) .menus_item_child {
+  left: -50px;
+}
 
 /* 日间模式不生效 */
 [data-theme="light"] #site-name,
