@@ -1,7 +1,7 @@
-var leonus = {
+var leonus = {    
     linkCom: e => {
         var t = document.querySelector(".el-textarea__inner");
-        "bf" == e ? (t.value = "```yml\n", t.value += "- name: \n  link: \n  avatar: \n  descr: \n  siteshot: ", t.value += "\n```", t.setSelectionRange(15, 15)) : (t.value = "站点名称：\n站点地址：\n头像链接：\n站点描述：\n站点截图：", t.setSelectionRange(5, 5)), t.focus()
+        "bf" == e ? (t.value = "```yml\n", t.value += "- name: \n  link: \n  avatar: \n  descr: \n  rss: ", t.value += "\n```", t.setSelectionRange(15, 15)) : (t.value = "站点名称：\n站点地址：\n头像链接：\n站点描述：\nRSS地址：", t.setSelectionRange(5, 5)), t.focus()
     },
     owoBig: () => {
         if (!document.getElementById("post-comment") || document.body.clientWidth < 768) return;
@@ -24,7 +24,7 @@ var leonus = {
                             t = 3 * l.path[0].clientWidth,
                             a = l.x - l.offsetX - (t - l.path[0].clientWidth) / 2,
                             i = l.y - l.offsetY;
-                        a + t > n.clientWidth && (a -= a + t - n.clientWidth + 10), a < 0 && (a = 10), o.style.cssText = `display:flex; height:${e}px; width:${t}px; left:${a}px; top:${i}px;`, o.innerHTML = `<img src="/js/kslink.j/${l.target.src}">`
+                        a + t > n.clientWidth && (a -= a + t - n.clientWidth + 10), a < 0 && (a = 10), o.style.cssText = `display:flex; height:${e}px; width:${t}px; left:${a}px; top:${i}px;`, o.innerHTML = `<img src="${l.target.src}">`
                     }), 300))
                 }, s.onmouseout = () => {
                     o.style.display = "none", e = 1, clearTimeout(t)
@@ -36,3 +36,4 @@ var leonus = {
         })
     },
 };
+
