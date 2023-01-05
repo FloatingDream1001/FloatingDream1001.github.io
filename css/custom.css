@@ -40,6 +40,9 @@
 .menus_items .menus_item:nth-child(3) .menus_item_child {
   left: -80px;
 }
+.menus_items .menus_item:nth-child(4) .menus_item_child {
+  left: -50px;
+}
 .menus_items .menus_item:nth-child(5) .menus_item_child {
   left: -50px;
 }
@@ -748,7 +751,7 @@ h6::before {
     max-width: none !important;
     padding: 0 5px 0 5px;
   }
-}
+} */
 
 /* 除了首页以外其他页面隐藏卡片，并采用宽屏显示 */
 #archive,
@@ -1111,7 +1114,6 @@ h6::before {
   border-radius: 4px;
 }
 
-/* 右边滚动样式 */
 /* 滚动条样式 */
 ::-webkit-scrollbar {
   width: 8px;
@@ -1119,12 +1121,12 @@ h6::before {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: rgba(237, 187, 60, 0.2);
+  background-color: rgba(73, 177, 245, 0.2);
   border-radius: 2em;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(182, 221, 28, 0.66);
+  background-color: var(--theme-color);
   background-image: -webkit-linear-gradient(
     45deg,
     rgba(255, 255, 255, 0.4) 25%,
@@ -1144,7 +1146,7 @@ h6::before {
 
 ::-moz-selection {
   color: #fff;
-  background-color: rgba(19, 203, 185, 0.755);
+  background-color: var(--theme-color);
 }
 
 /* 倒计时 */
