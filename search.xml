@@ -32,39 +32,6 @@
     
     
     <entry>
-      <title>charts</title>
-      <link href="/charts/index.html"/>
-      <url>/charts/index.html</url>
-      
-        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>图库</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/default_cover_61.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href="/photo"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm11.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href="/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm12.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日常</div>  <p>日常照片</p>  <a href="/dayimages"></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -76,33 +43,11 @@
     
     
     <entry>
-      <title>快乐日常</title>
-      <link href="/dayimages/index.html"/>
-      <url>/dayimages/index.html</url>
+      <title>图库</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="cc8f5c05993c39f72d12fe6cad8ca3801e08fbe6ad78063d2101a23b843aeb16">24192ee3beba83a9dc0f3becdf4156a27866a9f2c2dc98ced01008398beec48005a0f59886f4c4e17a0cdebbe6241145ac7cc1b47116cb8bf4006a86b3d67e1b933623c0f8f91a55f48ea857ecbf3de946f8707ee6a609cb304a37119ac5e645b1ca39324434d5b7af9c2a35007b219d68d587c6625eaa4c23d78a997efe8a10fa7d43ca1a29048bc8bb8278a4452a668979b2243adb49dcfe925cce0d5f185b890e88662b6e78899654577d7c7442a262c27c3777880318bd2e13c908c1766a907c4affc51a74a91bbcfed8b57e46afc9ef5e2259499181d3b2414fc00e975a7f0dc9a3f2fdcd909f14eff791cd4cfdbc1860097fb6f3cd58595664d7ad8e4a980b8393cbc4e7058755992de83b659194c831df943287856ed179f8e2bc5542f42bdb18451a5ea8f886fcea222ddb927993fd7e97b57a00615ce333931f11175b6304aa621a100563420c6efbfecd375e210862b8f4a43bd345b630df09c2c5b50ced52a51c92ac8a0303cdfcaddb421781a33f890778df217b679213191774411b7134ba69f19a3beb1e6d5a116fc945a5577976dd90f183cf3978ccc29fb4135a2bd1cca87646b2787d27411e41e9ff873f91d82add36e37e980e28e504ce02ef8440598e971b824419c968c09e0b4278fc46410b70973bfe76c1dfbd96619fedd45c0f7ed027473c16f29b605cefe5607ffdd2349cf35b7b9f821d3aba373c20a927558f284b4b0d4fd3f02528428045020a6318760046595ee99564b03f5113209eae4c9b5c4f15f6e216a6239ec5cd8838ba72f0cd652f7ffff713d579e61ad2ffa0b4a76cfee6374aff21e78f95fe9f243b2ea63f656f34c36861087298cccf7104b3069084b69accb2bb07b485b93225ea00ef1924b5c8a69e965aaad425166213265068e36be81ef1e205795e70e93c2dfe3ea7cdbd81144b16a463f2d96e7a37e5561f98ac9ec563b0a39999084eae82ec2303409a9969a6a811e65b782da8e0914eee85f3f3ba14ae784ea6ae8a14a93bd54f935e0c364567fd9e1705620d51cb33bb224b01000e2cf9815cd130e334e29d269c493620ad295f8bf3d9335797f4b792f5c60a0d33899c9d076ac36888d34b7e23cf5652ff8a6ea367c028ae9ca99a80ae961295d8d8e9a61e5a8559354d0287894102e9bb3fbbae49b0133fbad2cae9bed62afc7464f234542b23b1bda677c08de7dc88f1838f6ade027587ae69acd48aeb12cf448a5f3d25b4c6121c698c882731eaa139268fdd223e2633380d5711d1f73c86ab039a51757dd2321da7ca35a89970ad5d6998bb54194e20c5896c331aa633c5c7b1ab8fd9af3899f3ecfcda56a9bc33b6e6f8b5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/copymessage.js"/>
-      <url>/js/copymessage.js</url>
-      
-        <content type="html"><![CDATA[new Vue({    data: function () {        this.$notify({            // notify: message,            title: "copy成功😜",            message: "程序员，在扒源码也记住要遵循GPL协议哦！",            position: 'top-left',            offset: 50,            showClose: true,            type: "warning",            duration: 5000        });    }})]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/readPercent.css"/>
-      <url>/css/readPercent.css</url>
-      
-        <content type="html"><![CDATA[/* 返回顶部 */button#go-up #percent {    display: none;    font-weight: bold;    font-size: 15px !important;}button#go-up span {    font-size: 12px!important;    margin-right: -1px;}/* 鼠标滑动到按钮上时显示返回顶部图标 */button#go-up:hover i {    display: block !important;}button#go-up:hover #percent {    display: none !important;}]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/default_cover_61.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href="/photo"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm11.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href="/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm12.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日常</div>  <p>日常照片</p>  <a href="/dayimages"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -121,10 +66,54 @@
     
     <entry>
       <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
+      <link href="/css/readPercent.css"/>
+      <url>/css/readPercent.css</url>
       
-        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 8" width="8px" height="8px"><circle cx="4" cy="4" r="4" opacity="1.0" fill="rgb(57, 197, 187)"/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
+        <content type="html"><![CDATA[/* 返回顶部 */button#go-up #percent {    display: none;    font-weight: bold;    font-size: 15px !important;}button#go-up span {    font-size: 12px!important;    margin-right: -1px;}/* 鼠标滑动到按钮上时显示返回顶部图标 */button#go-up:hover i {    display: block !important;}button#go-up:hover #percent {    display: none !important;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>charts</title>
+      <link href="/charts/index.html"/>
+      <url>/charts/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>快乐日常</title>
+      <link href="/dayimages/index.html"/>
+      <url>/dayimages/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="cc8f5c05993c39f72d12fe6cad8ca3801e08fbe6ad78063d2101a23b843aeb16">24192ee3beba83a9dc0f3becdf4156a27866a9f2c2dc98ced01008398beec48005a0f59886f4c4e17a0cdebbe6241145ac7cc1b47116cb8bf4006a86b3d67e1b933623c0f8f91a55f48ea857ecbf3de946f8707ee6a609cb304a37119ac5e645b1ca39324434d5b7af9c2a35007b219d68d587c6625eaa4c23d78a997efe8a10fa7d43ca1a29048bc8bb8278a4452a668979b2243adb49dcfe925cce0d5f185b890e88662b6e78899654577d7c7442a262c27c3777880318bd2e13c908c1766a907c4affc51a74a91bbcfed8b57e46afc9ef5e2259499181d3b2414fc00e975a7f0dc9a3f2fdcd909f14eff791cd4cfdbc1860097fb6f3cd58595664d7ad8e4a980b8393cbc4e7058755992de83b659194c831df943287856ed179f8e2bc5542f42bdb18451a5ea8f886fcea222ddb927993fd7e97b57a00615ce333931f11175b6304aa621a100563420c6efbfecd375e210862b8f4a43bd345b630df09c2c5b50ced52a51c92ac8a0303cdfcaddb421781a33f890778df217b679213191774411b7134ba69f19a3beb1e6d5a116fc945a5577976dd90f183cf3978ccc29fb4135a2bd1cca87646b2787d27411e41e9ff873f91d82add36e37e980e28e504ce02ef8440598e971b824419c968c09e0b4278fc46410b70973bfe76c1dfbd96619fedd45c0f7ed027473c16f29b605cefe5607ffdd2349cf35b7b9f821d3aba373c20a927558f284b4b0d4fd3f02528428045020a6318760046595ee99564b03f5113209eae4c9b5c4f15f6e216a6239ec5cd8838ba72f0cd652f7ffff713d579e61ad2ffa0b4a76cfee6374aff21e78f95fe9f243b2ea63f656f34c36861087298cccf7104b3069084b69accb2bb07b485b93225ea00ef1924b5c8a69e965aaad425166213265068e36be81ef1e205795e70e93c2dfe3ea7cdbd81144b16a463f2d96e7a37e5561f98ac9ec563b0a39999084eae82ec2303409a9969a6a811e65b782da8e0914eee85f3f3ba14ae784ea6ae8a14a93bd54f935e0c364567fd9e1705620d51cb33bb224b01000e2cf9815cd130e334e29d269c493620ad295f8bf3d9335797f4b792f5c60a0d33899c9d076ac36888d34b7e23cf5652ff8a6ea367c028ae9ca99a80ae961295d8d8e9a61e5a8559354d0287894102e9bb3fbbae49b0133fbad2cae9bed62afc7464f234542b23b1bda677c08de7dc88f1838f6ade027587ae69acd48aeb12cf448a5f3d25b4c6121c698c882731eaa139268fdd223e2633380d5711d1f73c86ab039a51757dd2321da7ca35a89970ad5d6998bb54194e20c5896c331aa633c5c7b1ab8fd9af3899f3ecfcda56a9bc33b6e6f8b5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友联</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<p><div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div></p><p><link rel="stylesheet" href="/css/kslink.css"></p><script src="/js/kslink.js"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -132,10 +121,21 @@
     
     <entry>
       <title></title>
-      <link href="/js/readPercent.js"/>
-      <url>/js/readPercent.js</url>
+      <link href="/js/copymessage.js"/>
+      <url>/js/copymessage.js</url>
       
-        <content type="html"><![CDATA[window.onscroll = percent;// 执行函数// 页面百分比function percent() {    let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度        b = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.body.clientHeight, document.documentElement.clientHeight) - document.documentElement.clientHeight, // 整个网页高度        result = Math.round(a / b * 100), // 计算百分比        up = document.querySelector("#go-up") // 获取按钮    if (result ]]></content>
+        <content type="html"><![CDATA[new Vue({    data: function () {        this.$notify({            // notify: message,            title: "copy成功😜",            message: "程序员，在扒源码也记住要遵循GPL协议哦！",            position: 'top-left',            offset: 50,            showClose: true,            type: "warning",            duration: 5000        });    }})]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
+      
+        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 8" width="8px" height="8px"><circle cx="4" cy="4" r="4" opacity="1.0" fill="rgb(57, 197, 187)"/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
       
     </entry>
     
@@ -165,17 +165,6 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime1.js"/>
-      <url>/js/runtime1.js</url>
-      
-        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2019-04-17 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (number(time[2])>7)){    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp" title="距离百年老店也就差不到一百年~"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript" title="这个点了应该去睡觉啦，熬夜对身体不好哦"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);</22)>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/day.js"/>
       <url>/js/day.js</url>
       
@@ -187,10 +176,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
+      <link href="/js/readPercent.js"/>
+      <url>/js/readPercent.js</url>
       
-        <content type="html"><![CDATA[var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("01/01/2023 00:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),o=new Date("01/01/2023 00:00:00"),n=(now-o)/1e3/60/60/24,r=Math.floor(n),i=(now-o)/1e3/60/60-24*r,s=Math.floor(i);1==String(s).length&&(s="0"+s);var d=(now-o)/1e3/60-1440*r-60*s,l=Math.floor(d);1==String(l).length&&(l="0"+l);var g=(now-o)/1e3-86400*r-3600*s-60*l,b=Math.round(g);1==String(b).length&&(b="0"+b);let c="";c=s<18&&s>=9?`<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/ZZ小屋-持续追逐中.svg" title="什么时候才能实现财富自由呀呀呀~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${l} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀</div>`:`<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/ZZ小屋-正在运行中.svg" title="在青春的时候不留遗憾，在奋斗的年龄，不能安逸~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${l} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> <b><font size="2px">夫人是我怀中来日方长的牵挂</font></b></div>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}setInterval((()=>{createtime()}),1e3);</18&&s>]]></content>
+        <content type="html"><![CDATA[window.onscroll = percent;// 执行函数// 页面百分比function percent() {    let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度        b = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.body.clientHeight, document.documentElement.clientHeight) - document.documentElement.clientHeight, // 整个网页高度        result = Math.round(a / b * 100), // 计算百分比        up = document.querySelector("#go-up") // 获取按钮    if (result ]]></content>
       
     </entry>
     
@@ -219,11 +208,55 @@
     
     
     <entry>
-      <title>友联</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<p><div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div></p><p><link rel="stylesheet" href="/css/kslink.css"></p><script src="/js/kslink.js"></script>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
+      
+        <content type="html"><![CDATA[var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("01/01/2023 00:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),o=new Date("01/01/2023 00:00:00"),n=(now-o)/1e3/60/60/24,r=Math.floor(n),i=(now-o)/1e3/60/60-24*r,s=Math.floor(i);1==String(s).length&&(s="0"+s);var d=(now-o)/1e3/60-1440*r-60*s,l=Math.floor(d);1==String(l).length&&(l="0"+l);var g=(now-o)/1e3-86400*r-3600*s-60*l,b=Math.round(g);1==String(b).length&&(b="0"+b);let c="";c=s<18&&s>=9?`<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/ZZ小屋-持续追逐中.svg" title="什么时候才能实现财富自由呀呀呀~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${l} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀</div>`:`<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/ZZ小屋-正在运行中.svg" title="在青春的时候不留遗憾，在奋斗的年龄，不能安逸~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${l} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> <b><font size="2px">夫人是我怀中来日方长的牵挂</font></b></div>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}setInterval((()=>{createtime()}),1e3);</18&&s>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime1.js"/>
+      <url>/js/runtime1.js</url>
+      
+        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2019-04-17 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (number(time[2])>7)){    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp" title="距离百年老店也就差不到一百年~"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript" title="这个点了应该去睡觉啦，熬夜对身体不好哦"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);</22)>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/universe.js"/>
+      <url>/js/universe.js</url>
+      
+        <content type="html"><![CDATA[function dark() {    window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;    var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];    function f(){        n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)    }    function u(){        h.clearRect(0,0,n,e);        for(var t=c.length,i=0;i<t;i++) { var s="c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}" } function y(){ this.reset="function(){" this.giant="m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)" }, this.fadein="function(){" this.fadingin&&(this.fadingin="!(this.opacity">this.opacityTresh),this.opacity+=this.do)            },            this.fadeOut=function(){                this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do 2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset())) }, this.draw="function(){" if(h.beginpath(),this.giant) h.fillstyle="rgba(" +a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*math.pi,!1); else if(this.comet){ +d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*math.pi,!1); for(var t="0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}" +r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r); h.closepath(),h.fill()}, this.move="function(){" this.x+="this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x">n-n/4||this.y</0)&&(this.fadingOut=!1,this.reset()))></0),this.opacity-=this.do></t;i++)>]]></content>
       
     </entry>
     
@@ -246,39 +279,6 @@
       <url>/photo/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://source.fomal.cc/img/default_cover_1.webp" alt="p1"><br><img src="https://source.fomal.cc/img/default_cover_2.webp" alt="p2"><br><img src="https://source.fomal.cc/img/default_cover_3.webp" alt="p3"><br><img src="https://source.fomal.cc/img/default_cover_4.webp" alt="p4"><br><img src="https://source.fomal.cc/img/default_cover_5.webp" alt="p5"><br><img src="https://source.fomal.cc/img/default_cover_6.webp" alt="p6"><br><img src="https://source.fomal.cc/img/default_cover_7.webp" alt="p7"><br><img src="https://source.fomal.cc/img/default_cover_8.webp" alt="p8"><br><img src="https://source.fomal.cc/img/default_cover_9.webp" alt="p9"><br><img src="https://source.fomal.cc/img/default_cover_10.webp" alt="p10"><br><img src="https://source.fomal.cc/img/default_cover_11.webp" alt="p11"><br><img src="https://source.fomal.cc/img/default_cover_12.webp" alt="p12"> </p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/universe.js"/>
-      <url>/js/universe.js</url>
-      
-        <content type="html"><![CDATA[function dark() {    window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;    var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];    function f(){        n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)    }    function u(){        h.clearRect(0,0,n,e);        for(var t=c.length,i=0;i<t;i++) { var s="c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}" } function y(){ this.reset="function(){" this.giant="m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)" }, this.fadein="function(){" this.fadingin&&(this.fadingin="!(this.opacity">this.opacityTresh),this.opacity+=this.do)            },            this.fadeOut=function(){                this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do 2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset())) }, this.draw="function(){" if(h.beginpath(),this.giant) h.fillstyle="rgba(" +a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*math.pi,!1); else if(this.comet){ +d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*math.pi,!1); for(var t="0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}" +r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r); h.closepath(),h.fill()}, this.move="function(){" this.x+="this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x">n-n/4||this.y</0)&&(this.fadingOut=!1,this.reset()))></0),this.opacity-=this.do></t;i++)>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
