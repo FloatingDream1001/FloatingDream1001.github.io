@@ -1119,12 +1119,12 @@ h6::before {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: rgba(73, 177, 245, 0.2);
+  background-color: rgba(237, 187, 60, 0.2);
   border-radius: 2em;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--theme-color);
+  background-color: rgba(182, 221, 28, 0.66);
   background-image: -webkit-linear-gradient(
     45deg,
     rgba(255, 255, 255, 0.4) 25%,
@@ -1144,7 +1144,7 @@ h6::before {
 
 ::-moz-selection {
   color: #fff;
-  background-color: var(--theme-color);
+  background-color: rgba(19, 203, 185, 0.755);
 }
 
 /* 倒计时 */
