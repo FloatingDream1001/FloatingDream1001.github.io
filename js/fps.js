@@ -24,12 +24,16 @@ if (window.localStorage.getItem("fpson") == undefined || window.localStorage.get
 
         if (now > 1000 + lastTime) {
             var fps = Math.round((frame * 1000) / (now - lastTime));
-            if (fps <= 5) { var kd="`<span" style="color:#bd0000">卡成ppt🤢`
-            } else if (fps <= 15) { var kd="`<span" style="color:red">电竞级帧率😖`
-            } else if (fps <= 25) { var kd="`<span" style="color:orange">有点难受😨`
+            if (fps <= 5) {
+                var kd = `<span style="color:#bd0000">卡成ppt🤢</span>`
+            } else if (fps <= 15) {
+                var kd = `<span style="color:red">电竞级帧率😖</span>`
+            } else if (fps <= 25) {
+                var kd = `<span style="color:orange">有点难受😨</span>`
             } else if (fps < 35) {
                 var kd = `<span style="color:#9338e6">不太流畅🙄</span>`
-            } else if (fps <= 45) { var kd="`<span" style="color:#08b7e4">还不错哦😁`
+            } else if (fps <= 45) {
+                var kd = `<span style="color:#08b7e4">还不错哦😁</span>`
             } else {
                 var kd = `<span style="color:#39c5bb">十分流畅🤣</span>`
             }
@@ -44,4 +48,4 @@ if (window.localStorage.getItem("fpson") == undefined || window.localStorage.get
     loop();
 } else {
     document.getElementById("fps").style = "display:none!important"
-}</=></=></=></=>
+}
