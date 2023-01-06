@@ -1321,3 +1321,28 @@ h6::before {
       opacity: 1;
   }
 }
+
+/* 引入图标 */
+/* svg.icon {
+  width: 1.28em;
+  height: 1.28em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+} */
+
+svg.social_icon {
+  width: 1.3em;
+  height: 1.30em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+svg.menu_icon {
+  width: 1.4em;
+  height: 1.4em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
