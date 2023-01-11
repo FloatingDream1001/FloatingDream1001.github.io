@@ -727,7 +727,7 @@ h6::before {
 
 #rightMenu .rightMenu-group.rightMenu-line .rightMenu-item * {
   height: 40px;
-  line-height: 40px;
+  line-height: 36px;
 }
 .rightMenu-group.hide {
   display: none;
@@ -749,7 +749,7 @@ h6::before {
 @media screen and (max-width: 900px) {
   .aside-content {
     max-width: none !important;
-    padding: 0 5px 0 5px;
+    padding: 0.5px 0.5px;
   }
 } */
 
@@ -1340,9 +1340,9 @@ svg.social_icon {
 }
 
 svg.menu_icon {
-  width: 1.4em;
-  height: 1.4em;
-  vertical-align: -0.15em;
+  width: 1.36em;
+  height: 1.36em;
+  vertical-align: -0.1em;
   fill: currentColor;
   overflow: hidden;
 }
