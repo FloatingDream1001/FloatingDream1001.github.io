@@ -8,7 +8,7 @@
       <link href="/2023/01/11/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/LinkList/"/>
       <url>/2023/01/11/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/LinkList/</url>
       
-        <content type="html"><![CDATA[<h1 id="链表（Linked-List）"><a href="#链表（Linked-List）" class="headerlink" title="链表（Linked List）"></a>链表（Linked List）</h1><p><img src="/2023/01/11/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/LinkList/image-20230111234126554.jpg" alt="image-20230111234126554" style="zoom:67%;"><br><img src="/2023/01/11/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/LinkList/image-20230111234719805.png" alt="image-20230111234719805" style="zoom:67%;"></p><blockquote><p>小结</p><blockquote><p>链表是以节点的方式来存储</p><p>每个节点包括data域和next域</p><p>data域存值，next域指向下一个节点</p><p>链表       （带头节点的/不带头节点的）</p><label style="color:red">链表的各个节点不一定是连续存放的</label></blockquote></blockquote>]]></content>
+        <content type="html"><![CDATA[<h1 id="链表（Linked-List）"><a href="#链表（Linked-List）" class="headerlink" title="链表（Linked List）"></a>链表（Linked List）</h1><img src="/2023/01/11/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/LinkList/image-20230111234126554.jpg" alt="image-20230111234126554" style="zoom:67%;"><img src="/2023/01/11/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/LinkList/image-20230111234719805.png" alt="image-20230111234719805" style="zoom:67%;"><blockquote><p>小结</p><blockquote><p>链表是以节点的方式来存储</p><p>每个节点包括data域和next域</p><p>data域存值，next域指向下一个节点</p><p>链表       （带头节点的&#x2F;不带头节点的）<br><label style="color:red">链表的各个节点不一定是连续存放的</label></p></blockquote></blockquote>]]></content>
       
       
       <categories>
@@ -33,7 +33,7 @@
       <link href="/2022/12/31/hello-hexo/"/>
       <url>/2022/12/31/hello-hexo/</url>
       
-        <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><p><strong>今天是 2022 年的最后一天，加油 2023，再见 2022</strong><br></p><style></style>]]></content>
+        <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><p><strong>今天是 2022 年的最后一天，加油 2023，再见 2022</strong></p><style></style>]]></content>
       
       
       <categories>
@@ -82,66 +82,11 @@
     
     
     <entry>
-      <title>charts</title>
-      <link href="/charts/index.html"/>
-      <url>/charts/index.html</url>
-      
-        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<!-- GitCalendar容器<div id="gitZone"></div> -->]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>图库</title>
       <link href="/Gallery/index.html"/>
       <url>/Gallery/index.html</url>
       
         <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/default_cover_61.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href="/photo"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm11.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href="/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm12.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日常</div>  <p>日常照片</p>  <a href="/dayimages"></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>快乐日常</title>
-      <link href="/dayimages/index.html"/>
-      <url>/dayimages/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="cc8f5c05993c39f72d12fe6cad8ca3801e08fbe6ad78063d2101a23b843aeb16">24192ee3beba83a9dc0f3becdf4156a27866a9f2c2dc98ced01008398beec48005a0f59886f4c4e17a0cdebbe6241145ac7cc1b47116cb8bf4006a86b3d67e1b933623c0f8f91a55f48ea857ecbf3de946f8707ee6a609cb304a37119ac5e645b1ca39324434d5b7af9c2a35007b219d68d587c6625eaa4c23d78a997efe8a10fa7d43ca1a29048bc8bb8278a4452a668979b2243adb49dcfe925cce0d5f185b890e88662b6e78899654577d7c7442a262c27c3777880318bd2e13c908c1766a907c4affc51a74a91bbcfed8b57e46afc9ef5e2259499181d3b2414fc00e975a7f0dc9a3f2fdcd909f14eff791cd4cfdbc1860097fb6f3cd58595664d7ad8e4a980b8393cbc4e7058755992de83b659194c831df943287856ed179f8e2bc5542f42bdb18451a5ea8f886fcea222ddb927993fd7e97b57a00615ce333931f11175b6304aa621a100563420c6efbfecd375e210862b8f4a43bd345b630df09c2c5b50ced52a51c92ac8a0303cdfcaddb421781a33f890778df217b679213191774411b7134ba69f19a3beb1e6d5a116fc945a5577976dd90f183cf3978ccc29fb4135a2bd1cca87646b2787d27411e41e9ff873f91d82add36e37e980e28e504ce02ef8440598e971b824419c968c09e0b4278fc46410b70973bfe76c1dfbd96619fedd45c0f7ed027473c16f29b605cefe5607ffdd2349cf35b7b9f821d3aba373c20a927558f284b4b0d4fd3f02528428045020a6318760046595ee99564b03f5113209eae4c9b5c4f15f6e216a6239ec5cd8838ba72f0cd652f7ffff713d579e61ad2ffa0b4a76cfee6374aff21e78f95fe9f243b2ea63f656f34c36861087298cccf7104b3069084b69accb2bb07b485b93225ea00ef1924b5c8a69e965aaad425166213265068e36be81ef1e205795e70e93c2dfe3ea7cdbd81144b16a463f2d96e7a37e5561f98ac9ec563b0a39999084eae82ec2303409a9969a6a811e65b782da8e0914eee85f3f3ba14ae784ea6ae8a14a93bd54f935e0c364567fd9e1705620d51cb33bb224b01000e2cf9815cd130e334e29d269c493620ad295f8bf3d9335797f4b792f5c60a0d33899c9d076ac36888d34b7e23cf5652ff8a6ea367c028ae9ca99a80ae961295d8d8e9a61e5a8559354d0287894102e9bb3fbbae49b0133fbad2cae9bed62afc7464f234542b23b1bda677c08de7dc88f1838f6ade027587ae69acd48aeb12cf448a5f3d25b4c6121c698c882731eaa139268fdd223e2633380d5711d1f73c86ab039a51757dd2321da7ca35a89970ad5d6998bb54194e20c5896c331aa633c5c7b1ab8fd9af3899f3ecfcda56a9bc33b6e6f8b5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/copymessage.js"/>
-      <url>/js/copymessage.js</url>
-      
-        <content type="html"><![CDATA[new Vue({    data: function () {        this.$notify({            // notify: message,            title: "欢迎光临😜",            message: "程序员，在扒源码也记住要遵循GPL协议哦！",            position: 'top-left',            offset: 50,            showClose: true,            type: "warning",            duration: 5000        });    }})]]></content>
       
     </entry>
     
@@ -159,11 +104,55 @@
     
     
     <entry>
+      <title>快乐日常</title>
+      <link href="/dayimages/index.html"/>
+      <url>/dayimages/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="cc8f5c05993c39f72d12fe6cad8ca3801e08fbe6ad78063d2101a23b843aeb16">24192ee3beba83a9dc0f3becdf4156a27866a9f2c2dc98ced01008398beec48005a0f59886f4c4e17a0cdebbe6241145ac7cc1b47116cb8bf4006a86b3d67e1b933623c0f8f91a55f48ea857ecbf3de946f8707ee6a609cb304a37119ac5e645b1ca39324434d5b7af9c2a35007b219d68d587c6625eaa4c23d78a997efe8a10fa7d43ca1a29048bc8bb8278a4452a668979b2243adb49dcfe925cce0d5f185b890e88662b6e78899654577d7c7442a262c27c3777880318bd2e13c908c1766a907c4affc51a74a91bbcfed8b57e46afc9ef5e2259499181d3b2414fc00e975a7f0dc9a3f2fdcd909f14eff791cd4cfdbc1860097fb6f3cd58595664d7ad8e4a980b8393cbc4e7058755992de83b659194c831df943287856ed179f8e2bc5542f42bdb18451a5ea8f886fcea222ddb927993fd7e97b57a00615ce333931f11175b6304aa621a100563420c6efbfecd375e210862b8f4a43bd345b630df09c2c5b50ced52a51c92ac8a0303cdfcaddb421781a33f890778df217b679213191774411b7134ba69f19a3beb1e6d5a116fc945a5577976dd90f183cf3978ccc29fb4135a2bd1cca87646b2787d27411e41e9ff873f91d82add36e37e980e28e504ce02ef8440598e971b824419c968c09e0b4278fc46410b70973bfe76c1dfbd96619fedd45c0f7ed027473c16f29b605cefe5607ffdd2349cf35b7b9f821d3aba373c20a927558f284b4b0d4fd3f02528428045020a6318760046595ee99564b03f5113209eae4c9b5c4f15f6e216a6239ec5cd8838ba72f0cd652f7ffff713d579e61ad2ffa0b4a76cfee6374aff21e78f95fe9f243b2ea63f656f34c36861087298cccf7104b3069084b69accb2bb07b485b93225ea00ef1924b5c8a69e965aaad425166213265068e36be81ef1e205795e70e93c2dfe3ea7cdbd81144b16a463f2d96e7a37e5561f98ac9ec563b0a39999084eae82ec2303409a9969a6a811e65b782da8e0914eee85f3f3ba14ae784ea6ae8a14a93bd54f935e0c364567fd9e1705620d51cb33bb224b01000e2cf9815cd130e334e29d269c493620ad295f8bf3d9335797f4b792f5c60a0d33899c9d076ac36888d34b7e23cf5652ff8a6ea367c028ae9ca99a80ae961295d8d8e9a61e5a8559354d0287894102e9bb3fbbae49b0133fbad2cae9bed62afc7464f234542b23b1bda677c08de7dc88f1838f6ade027587ae69acd48aeb12cf448a5f3d25b4c6121c698c882731eaa139268fdd223e2633380d5711d1f73c86ab039a51757dd2321da7ca35a89970ad5d6998bb54194e20c5896c331aa633c5c7b1ab8fd9af3899f3ecfcda56a9bc33b6e6f8b5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- GitCalendar容器<div id="gitZone"></div> -->]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/js/console.js"/>
       <url>/js/console.js</url>
       
         <content type="html"><![CDATA[var now1 = new Date();function createtime1() {    var grt = new Date("01/01/2023 00:00:00"); //此处修改你的建站时间或者网站上线时间    now1.setTime(now1.getTime() + 250);    var days = (now1 - grt) / 1000 / 60 / 60 / 24;    var dnum = Math.floor(days);    var ascll = [        `欢迎来到FloatingDream1001小家!`,        `Future is now 🍭🍭🍭`,        `        ███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ ██      ██    ██ ████  ████ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    █████   ██    ██ ██ ████ ██ ███████ ██      ███████ ███████ ██    ██    ██    ██      ██    ██ ██  ██  ██ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    ██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██                                                 `,        "小站已经苟活",        dnum,        "天啦!",        "©2023 By FloatingDream",    ];    setTimeout(        console.log.bind(            console,            `\n%c${ascll[0]} %c ${ascll[1]} %c ${ascll[2]} %c${ascll[3]}%c ${ascll[4]}%c ${ascll[5]}\n\n%c ${ascll[6]}\n`,            "color:#39c5bb",            "",            "color:#39c5bb",            "color:#39c5bb",            "",            "color:#39c5bb",            ""        )    );}createtime1();function createtime2() {    var ascll2 = [`NCC2-036`, `调用前置摄像头拍照成功，识别为「大聪明」`, `Photo captured: `, ` 🤪 `];    setTimeout(        console.log.bind(            console,            `%c ${ascll2[0]} %c ${ascll2[1]} %c \n${ascll2[2]} %c\n${ascll2[3]}`,            "color:white; background-color:#10bcc0",            "",            "",            'background:url("https://unpkg.zhimg.com/anzhiyu-assets@latest/image/common/tinggge.gif") no-repeat;font-size:450%'        )    );    setTimeout(console.log.bind(console, "%c WELCOME %c 欢迎光临，大聪明", "color:white; background-color:#23c682", ""));    setTimeout(        console.warn.bind(            console,            "%c ⚡ Powered by FloatingDream %c 你正在访问FloatingDreamの小家",            "color:white; background-color:#f0ad4e",            ""        )    );    setTimeout(console.log.bind(console, "%c W23-12 %c 系统监测到你已打开控制台", "color:white; background-color:#4f90d9", ""));    setTimeout(        console.warn.bind(console, "%c S013-782 %c 你现在正处于监控中", "color:white; background-color:#d9534f", "")    );}createtime2();// 重写console方法console.log = function () { };console.error = function () { };console.warn = function () { };]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>charts</title>
+      <link href="/charts/index.html"/>
+      <url>/charts/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
       
     </entry>
     
@@ -193,21 +182,21 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
+      <link href="/js/copymessage.js"/>
+      <url>/js/copymessage.js</url>
       
-        <content type="html"><![CDATA[var now = new Date();function createtime() {  // 当前时间  now.setTime(now.getTime() + 1000);  var start = new Date("01/01/2023 00:00:00"); // 旅行者1号开始计算的时间  var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒  var unit = (dis / 149600000).toFixed(6);  // 天文单位  var grt = new Date("01/01/2023 00:00:00");// 网站诞生时间  var days = (now - grt) / 1e3 / 60 / 60 / 24,    dnum = Math.floor(days),    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,    hnum = Math.floor(hours);  1 == String(hnum).length && (hnum = "0" + hnum);  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,    mnum = Math.floor(minutes);  1 == String(mnum).length && (mnum = "0" + mnum);  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,    snum = Math.round(seconds);  1 == String(snum).length && (snum = "0" + snum);  let currentTimeHtml = "";  (currentTimeHtml =    hnum < 18 && hnum >= 9    ? `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-科研摸鱼中.svg" title="什么时候才能追求生活的自由~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`    : `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-下班休息啦.svg" title="下班了就该和家人一起放松休息玩耍~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),    document.getElementById("workboard") &&    (document.getElementById("workboard").innerHTML = currentTimeHtml);}// 设置重复执行函数，周期1000mssetInterval(() => {  createtime();}, 1000);]]></content>
+        <content type="html"><![CDATA[new Vue({    data: function () {        this.$notify({            // notify: message,            title: "欢迎光临😜",            message: "程序员，在扒源码也记住要遵循GPL协议哦！",            position: 'top-left',            offset: 50,            showClose: true,            type: "warning",            duration: 5000        });    }})]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>友联</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
       
-        <content type="html"><![CDATA[<p><div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div></p><p><link rel="stylesheet" href="/css/kslink.css"></p><script src="/js/kslink.js"></script>]]></content>
+        <content type="html"><![CDATA[var now = new Date();function createtime() {  // 当前时间  now.setTime(now.getTime() + 1000);  var start = new Date("01/01/2023 00:00:00"); // 旅行者1号开始计算的时间  var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒  var unit = (dis / 149600000).toFixed(6);  // 天文单位  var grt = new Date("01/01/2023 00:00:00");// 网站诞生时间  var days = (now - grt) / 1e3 / 60 / 60 / 24,    dnum = Math.floor(days),    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,    hnum = Math.floor(hours);  1 == String(hnum).length && (hnum = "0" + hnum);  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,    mnum = Math.floor(minutes);  1 == String(mnum).length && (mnum = "0" + mnum);  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,    snum = Math.round(seconds);  1 == String(snum).length && (snum = "0" + snum);  let currentTimeHtml = "";  (currentTimeHtml =    hnum < 18 && hnum >= 9    ? `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-科研摸鱼中.svg" title="什么时候才能追求生活的自由~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`    : `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-下班休息啦.svg" title="下班了就该和家人一起放松休息玩耍~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),    document.getElementById("workboard") &&    (document.getElementById("workboard").innerHTML = currentTimeHtml);}// 设置重复执行函数，周期1000mssetInterval(() => {  createtime();}, 1000);]]></content>
       
     </entry>
     
@@ -236,22 +225,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/share.js"/>
-      <url>/js/share.js</url>
+      <title>友联</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[// 分享本页function share_() {    let url = window.location.origin + window.location.pathname    try {        // 截取标题        var title = document.title;        var subTitle = title.endsWith("| FloatingDream1001") ? title.substring(0, title.length - 14) : title;        navigator.clipboard.writeText('FloatingDream1001的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');        new Vue({            data: function () {                this.$notify({                    title: "成功复制分享信息🎉",                    message: "您现在可以通过粘贴直接跟小伙伴分享了！",                    position: 'top-left',                    offset: 50,                    showClose: true,                    type: "success",                     duration: 5000                });                // return { visible: false }            }        })    } catch (err) {        console.error('复制失败！', err);    }    // new ClipboardJS(".share", { text: function () { return '标题：' + document.title + '\n链接：' + url } });    // btf.snackbarShow("本页链接已复制到剪切板，快去分享吧~")}// 防抖function share() {    debounce(share_, 300);}]]></content>
+        <content type="html"><![CDATA[<div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div><link rel="stylesheet" href="/css/kslink.css"><script src="/js/kslink.js"></script>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title></title>
+      <link href="/js/share.js"/>
+      <url>/js/share.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[// 分享本页function share_() {    let url = window.location.origin + window.location.pathname    try {        // 截取标题        var title = document.title;        var subTitle = title.endsWith("| FloatingDream1001") ? title.substring(0, title.length - 14) : title;        navigator.clipboard.writeText('FloatingDream1001的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');        new Vue({            data: function () {                this.$notify({                    title: "成功复制分享信息🎉",                    message: "您现在可以通过粘贴直接跟小伙伴分享了！",                    position: 'top-left',                    offset: 50,                    showClose: true,                    type: "success",                     duration: 5000                });                // return { visible: false }            }        })    } catch (err) {        console.error('复制失败！', err);    }    // new ClipboardJS(".share", { text: function () { return '标题：' + document.title + '\n链接：' + url } });    // btf.snackbarShow("本页链接已复制到剪切板，快去分享吧~")}// 防抖function share() {    debounce(share_, 300);}]]></content>
       
     </entry>
     
@@ -280,9 +269,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -296,6 +285,28 @@
       <url>/webgit/index.html</url>
       
         <content type="html"><![CDATA[<div id="gitZone"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>背景</title>
+      <link href="/wallpaper/index.html"/>
+      <url>/wallpaper/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://bgresource.yangyuezz.top/img/index1.webp" alt="p1"><br><img src="https://bgresource.yangyuezz.top/img/index2.webp" alt="p2"><br><img src="https://bgresource.yangyuezz.top/img/index3.webp" alt="p3"><br><img src="https://bgresource.yangyuezz.top/img/index4.webp" alt="p4"><br><img src="https://bgresource.yangyuezz.top/img/index5.webp" alt="p5"><br><img src="https://bgresource.yangyuezz.top/img/index6.webp" alt="p6"><br><img src="https://bgresource.yangyuezz.top/img/index7.webp" alt="p7"><br><img src="https://bgresource.yangyuezz.top/img/index8.webp" alt="p8"><br><img src="https://bgresource.yangyuezz.top/img/index9.webp" alt="p9"><br><img src="https://bgresource.yangyuezz.top/img/index10.webp" alt="p10"><br><img src="https://bgresource.yangyuezz.top/img/index11.webp" alt="p11"><br><img src="https://bgresource.yangyuezz.top/img/index12.webp" alt="p12"><br><img src="https://bgresource.yangyuezz.top/img/index13.webp" alt="p13"><br><img src="https://bgresource.yangyuezz.top/img/index14.webp" alt="p14"><br><img src="https://bgresource.yangyuezz.top/img/index15.webp" alt="p15"><br><img src="https://bgresource.yangyuezz.top/img/index16.webp" alt="p16"><br><img src="https://bgresource.yangyuezz.top/img/index17.webp" alt="p17"><br><img src="https://bgresource.yangyuezz.top/img/index18.webp" alt="p18"><br><img src="https://bgresource.yangyuezz.top/img/index19.webp" alt="p19"><br><img src="https://bgresource.yangyuezz.top/img/index20.webp" alt="p20"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
