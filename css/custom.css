@@ -746,7 +746,7 @@ h6::before {
 }
 
 /* 平板尺寸自适应(不启用侧边栏宽度限制) */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   .aside-content {
     max-width: none !important;
     padding: 0.5px 0.5px;
@@ -1332,9 +1332,9 @@ h6::before {
 } */
 
 svg.social_icon {
-  width: 1.3em;
-  height: 1.30em;
-  vertical-align: -0.15em;
+  width: 1.28em;
+  height: 1.28em;
+  vertical-align: -0.1em;
   fill: currentColor;
   overflow: hidden;
 }
