@@ -41,10 +41,13 @@
   left: -80px;
 }
 .menus_items .menus_item:nth-child(4) .menus_item_child {
-  left: -50px;
+  left: -70px;
 }
 .menus_items .menus_item:nth-child(5) .menus_item_child {
   left: -50px;
+}
+.menus_items .menus_item:nth-child(6) .menus_item_child {
+  left: -30px;
 }
 
 /* 日间模式不生效 */
