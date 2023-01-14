@@ -736,7 +736,7 @@ h6::before {
 /* 宽屏自适应 */
 /* 全局宽度 */
 .layout {
-  max-width: 1200px;
+  max-width: 1400px;
 }
 
 /* 侧边卡片栏宽度 */
@@ -746,7 +746,7 @@ h6::before {
 }
 
 /* 平板尺寸自适应(不启用侧边栏宽度限制) */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .aside-content {
     max-width: none !important;
     padding: 0.5px 0.5px;
