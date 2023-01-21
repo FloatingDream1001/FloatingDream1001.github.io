@@ -85,7 +85,8 @@ document.addEventListener('DOMContentLoaded', function () {
     return str
   }
   function translateInitialization () {
-    translateButtonObject = document.getElementById('translateLink')
+    // translateButtonObject = document.getElementById('translateLink')
+    translateButtonObject = document.getElementById('translateLink').getElementsByTagName('i')[0]
     if (translateButtonObject) {
       if (currentEncoding !== targetEncoding) {
         setTimeout(translateBody, translateDelay)
