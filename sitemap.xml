@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://floatingdream1001.github.io/posts/b45da5ce.html</loc>
+    
+    <lastmod>2023-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://floatingdream1001.github.io/posts/6367b42a.html</loc>
     
     <lastmod>2023-03-20</lastmod>
@@ -340,7 +349,7 @@
   </url>
   
   <url>
-    <loc>https://floatingdream1001.github.io/tags/LinkList/</loc>
+    <loc>https://floatingdream1001.github.io/tags/Sort-Algorithm/</loc>
     <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -354,7 +363,7 @@
   </url>
   
   <url>
-    <loc>https://floatingdream1001.github.io/tags/Sort-Algorithm/</loc>
+    <loc>https://floatingdream1001.github.io/tags/LinkList/</loc>
     <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
