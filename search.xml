@@ -557,11 +557,11 @@
     
     
     <entry>
-      <title>图库</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/default_cover_61.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href="/photo"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm11.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href="/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm12.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日常</div>  <p>日常照片</p>  <a href="/dayimages"></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<!-- GitCalendar容器<div id="gitZone"></div> -->]]></content>
       
     </entry>
     
@@ -579,22 +579,22 @@
     
     
     <entry>
-      <title>charts</title>
-      <link href="/charts/index.html"/>
-      <url>/charts/index.html</url>
+      <title>图库</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/default_cover_61.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href="/photo"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm11.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href="/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://source.fomal.cc/img/dm12.webp" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日常</div>  <p>日常照片</p>  <a href="/dayimages"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>快乐日常</title>
+      <link href="/dayimages/index.html"/>
+      <url>/dayimages/index.html</url>
       
-        <content type="html"><![CDATA[<!-- GitCalendar容器<div id="gitZone"></div> -->]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="cc8f5c05993c39f72d12fe6cad8ca3801e08fbe6ad78063d2101a23b843aeb16">24192ee3beba83a9dc0f3becdf4156a27866a9f2c2dc98ced01008398beec48005a0f59886f4c4e17a0cdebbe6241145ac7cc1b47116cb8bf4006a86b3d67e1b933623c0f8f91a55f48ea857ecbf3de946f8707ee6a609cb304a37119ac5e645b1ca39324434d5b7af9c2a35007b219d68d587c6625eaa4c23d78a997efe8a10fa7d43ca1a29048bc8bb8278a4452a668979b2243adb49dcfe925cce0d5f185b890e88662b6e78899654577d7c7442a262c27c3777880318bd2e13c908c1766a907c4affc51a74a91bbcfed8b57e46afc9ef5e2259499181d3b2414fc00e975a7f0dc9a3f2fdcd909f14eff791cd4cfdbc1860097fb6f3cd58595664d7ad8e4a980b8393cbc4e7058755992de83b659194c831df943287856ed179f8e2bc5542f42bdb18451a5ea8f886fcea222ddb927993fd7e97b57a00615ce333931f11175b6304aa621a100563420c6efbfecd375e210862b8f4a43bd345b630df09c2c5b50ced52a51c92ac8a0303cdfcaddb421781a33f890778df217b679213191774411b7134ba69f19a3beb1e6d5a116fc945a5577976dd90f183cf3978ccc29fb4135a2bd1cca87646b2787d27411e41e9ff873f91d82add36e37e980e28e504ce02ef8440598e971b824419c968c09e0b4278fc46410b70973bfe76c1dfbd96619fedd45c0f7ed027473c16f29b605cefe5607ffdd2349cf35b7b9f821d3aba373c20a927558f284b4b0d4fd3f02528428045020a6318760046595ee99564b03f5113209eae4c9b5c4f15f6e216a6239ec5cd8838ba72f0cd652f7ffff713d579e61ad2ffa0b4a76cfee6374aff21e78f95fe9f243b2ea63f656f34c36861087298cccf7104b3069084b69accb2bb07b485b93225ea00ef1924b5c8a69e965aaad425166213265068e36be81ef1e205795e70e93c2dfe3ea7cdbd81144b16a463f2d96e7a37e5561f98ac9ec563b0a39999084eae82ec2303409a9969a6a811e65b782da8e0914eee85f3f3ba14ae784ea6ae8a14a93bd54f935e0c364567fd9e1705620d51cb33bb224b01000e2cf9815cd130e334e29d269c493620ad295f8bf3d9335797f4b792f5c60a0d33899c9d076ac36888d34b7e23cf5652ff8a6ea367c028ae9ca99a80ae961295d8d8e9a61e5a8559354d0287894102e9bb3fbbae49b0133fbad2cae9bed62afc7464f234542b23b1bda677c08de7dc88f1838f6ade027587ae69acd48aeb12cf448a5f3d25b4c6121c698c882731eaa139268fdd223e2633380d5711d1f73c86ab039a51757dd2321da7ca35a89970ad5d6998bb54194e20c5896c331aa633c5c7b1ab8fd9af3899f3ecfcda56a9bc33b6e6f8b5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里记录着站长的日常时光，需要密码哦.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
     </entry>
     
@@ -634,33 +634,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
+      <title>charts</title>
+      <link href="/charts/index.html"/>
+      <url>/charts/index.html</url>
       
-        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 8" width="8px" height="8px"><circle cx="4" cy="4" r="4" opacity="1.0" fill="rgb(57, 197, 187)"/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
-      
-        <content type="html"><![CDATA[var now = new Date();function createtime() {  // 当前时间  now.setTime(now.getTime() + 1000);  var start = new Date("01/01/2023 00:00:00"); // 旅行者1号开始计算的时间  var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒  var unit = (dis / 149600000).toFixed(6);  // 天文单位  var grt = new Date("01/01/2023 00:00:00");// 网站诞生时间  var days = (now - grt) / 1e3 / 60 / 60 / 24,    dnum = Math.floor(days),    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,    hnum = Math.floor(hours);  1 == String(hnum).length && (hnum = "0" + hnum);  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,    mnum = Math.floor(minutes);  1 == String(mnum).length && (mnum = "0" + mnum);  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,    snum = Math.round(seconds);  1 == String(snum).length && (snum = "0" + snum);  let currentTimeHtml = "";  (currentTimeHtml =    hnum < 18 && hnum >= 9    ? `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-科研摸鱼中.svg" title="什么时候才能追求生活的自由~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`    : `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-下班休息啦.svg" title="下班了就该和家人一起放松休息玩耍~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),    document.getElementById("workboard") &&    (document.getElementById("workboard").innerHTML = currentTimeHtml);}// 设置重复执行函数，周期1000mssetInterval(() => {  createtime();}, 1000);]]></content>
+        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>快乐日常</title>
-      <link href="/dayimages/index.html"/>
-      <url>/dayimages/index.html</url>
+      <title>恋爱小屋</title>
+      <link href="/lovehome/index.html"/>
+      <url>/lovehome/index.html</url>
       
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="cc8f5c05993c39f72d12fe6cad8ca3801e08fbe6ad78063d2101a23b843aeb16">24192ee3beba83a9dc0f3becdf4156a27866a9f2c2dc98ced01008398beec48005a0f59886f4c4e17a0cdebbe6241145ac7cc1b47116cb8bf4006a86b3d67e1b933623c0f8f91a55f48ea857ecbf3de946f8707ee6a609cb304a37119ac5e645b1ca39324434d5b7af9c2a35007b219d68d587c6625eaa4c23d78a997efe8a10fa7d43ca1a29048bc8bb8278a4452a668979b2243adb49dcfe925cce0d5f185b890e88662b6e78899654577d7c7442a262c27c3777880318bd2e13c908c1766a907c4affc51a74a91bbcfed8b57e46afc9ef5e2259499181d3b2414fc00e975a7f0dc9a3f2fdcd909f14eff791cd4cfdbc1860097fb6f3cd58595664d7ad8e4a980b8393cbc4e7058755992de83b659194c831df943287856ed179f8e2bc5542f42bdb18451a5ea8f886fcea222ddb927993fd7e97b57a00615ce333931f11175b6304aa621a100563420c6efbfecd375e210862b8f4a43bd345b630df09c2c5b50ced52a51c92ac8a0303cdfcaddb421781a33f890778df217b679213191774411b7134ba69f19a3beb1e6d5a116fc945a5577976dd90f183cf3978ccc29fb4135a2bd1cca87646b2787d27411e41e9ff873f91d82add36e37e980e28e504ce02ef8440598e971b824419c968c09e0b4278fc46410b70973bfe76c1dfbd96619fedd45c0f7ed027473c16f29b605cefe5607ffdd2349cf35b7b9f821d3aba373c20a927558f284b4b0d4fd3f02528428045020a6318760046595ee99564b03f5113209eae4c9b5c4f15f6e216a6239ec5cd8838ba72f0cd652f7ffff713d579e61ad2ffa0b4a76cfee6374aff21e78f95fe9f243b2ea63f656f34c36861087298cccf7104b3069084b69accb2bb07b485b93225ea00ef1924b5c8a69e965aaad425166213265068e36be81ef1e205795e70e93c2dfe3ea7cdbd81144b16a463f2d96e7a37e5561f98ac9ec563b0a39999084eae82ec2303409a9969a6a811e65b782da8e0914eee85f3f3ba14ae784ea6ae8a14a93bd54f935e0c364567fd9e1705620d51cb33bb224b01000e2cf9815cd130e334e29d269c493620ad295f8bf3d9335797f4b792f5c60a0d33899c9d076ac36888d34b7e23cf5652ff8a6ea367c028ae9ca99a80ae961295d8d8e9a61e5a8559354d0287894102e9bb3fbbae49b0133fbad2cae9bed62afc7464f234542b23b1bda677c08de7dc88f1838f6ade027587ae69acd48aeb12cf448a5f3d25b4c6121c698c882731eaa139268fdd223e2633380d5711d1f73c86ab039a51757dd2321da7ca35a89970ad5d6998bb54194e20c5896c331aa633c5c7b1ab8fd9af3899f3ecfcda56a9bc33b6e6f8b5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里记录着站长的日常时光，需要密码哦.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="9f75a880397af0c56356f92ed44a7f26af56bbde906ad405d363bb6eab6eded3">24192ee3beba83a9dc0f3becdf4156a2b8df1bbf6f6bb75bd3d6b56c9dd62f9b999cd6a75010dbda0bd0277563372a1a04d00259e7e3b52cbc266c50fd07d9a78e7b4f24322363ad51f3ebaf32a47ecce91d4df3b20451360c6c260e7b0cb2aeb5cb1d635495aabdc5485ccfed957cd375b92d1c1cbc67bf64562cd0fb93dd04ff8e2b052170f2252b2d3f9968ce35087c13eef4266610ec2fdfdcbc3b82628fb6964f73e4421d4eaf955f2fbb85c0aed2c16e3610694afdf16ad59c9efeef8341d435ae86c6a642474f8fb994866a2e64068f3c3a95d9936e38b73dc41ddbd9fe28d735ac36f05237e936c045c03861bc0fd238be748b12f8b182860f57920b720b5c94b091d353c7b1a855e093941b2023cff7923bef71a72a5cc269c5a2a23a3b145ed0412f3eb77675edd8881e96ffb37bcbe9965c2fd5d57273b4d470a869a016dc416b9b8bc92e8fe0b8cd18b94667ba4bc66110c1f113eb08e3be664fe084c8ff3318a6c3e070baf3ce67f04513afb7c076519cab7956ceb5ef2e36091876d92508bdcce85548ac818721a91cff6cafea15eeaf71155bb3e76ebe4679b90abfb3c21d002e9b0fef86e07cc28e9ec010eac289cdd6562f4bf856115ed0fcab7b3d3e323f44804b8fd8e6549ac1a33cc6e32e885ae00f6433a662974606ca13291e6e9ea31db5b9c9dbc4561c4a1a0323eff0c4822aba03390172817bce39315c1e25a5b3232870b4d150dc8ca5a2692eed19a0f44d6c1aa510026bc235234783bad088d10f231dab2d63080dacbfd3b830031dc009b1ec60e633de22adec10914ed0334062770c5a5dad6a20dec6a49e344540a0f6e7e7a6bf860bdcefe53ce8f9d2ca5aecafb297f1fa5afadef043eded728149aa700d541f91ad837cde230b4be01ae7083d75c43b5985e99232c6af71e37e2ffa19538f49f963cbda63443a98490108c66d4f5f3cb6d1a80e33a4346f09f7c82e1a1e12bd656230ec8e3076724cf967079a483ccd8a4ad2def7cc452862abe75035527fd62f4fec2029568059f125130e0c8429734e7798e049e902787f4db0ca29904ebff210640659d8b27ad0b0ba436c7dfe025adb9432a151e11d0bf5a8b6b0b0fdebbc671297f64ea465583f002e3db27ae80d765c8f96c972e6ef05e4dd782b949e6c026a40beddd0e2e34f88d963e43f42a765805e029aa0e81098983016249c2bf6f797ebdbbc5d7ced9a47704f9ab396927f1020fe3081f02d287c18c7cb6481810b5807f791f7a2d6021468c0bd43eb28250dc8a413b47efa448a7548acc6df542312b8fe56829c8b20bda3d39e9fa3ece88c775957bb354efcef9fad34543e18c770f81e0d9fee0a0cfbb0c8ab2eda555b320144c5010f7a20291b195ed1acb4246bab8324f1d88be89269e4664a22e2af12224071b8aa73df3766d7271c7f9e709590f2112ade1afa3f9f53fb53ca5f6d5bb4f816da9e4f281ea1edf3327cdc0c191ba3cee8f220ed5f050a0a73a80f7797c5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">这里记录着我和玥玥的快乐时光，需要密码才能进入嗷!!!.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
     </entry>
     
@@ -679,21 +668,32 @@
     
     <entry>
       <title></title>
-      <link href="/js/share.js"/>
-      <url>/js/share.js</url>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
       
-        <content type="html"><![CDATA[// 分享本页function share_() {    let url = window.location.origin + window.location.pathname    try {        // 截取标题        var title = document.title;        var subTitle = title.endsWith("| FloatingDream1001") ? title.substring(0, title.length - 14) : title;        navigator.clipboard.writeText('FloatingDream1001的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');        new Vue({            data: function () {                this.$notify({                    title: "成功复制分享信息🎉",                    message: "您现在可以通过粘贴直接跟小伙伴分享了！",                    position: 'top-left',                    offset: 50,                    showClose: true,                    type: "success",                     duration: 5000                });                // return { visible: false }            }        })    } catch (err) {        console.error('复制失败！', err);    }    // new ClipboardJS(".share", { text: function () { return '标题：' + document.title + '\n链接：' + url } });    // btf.snackbarShow("本页链接已复制到剪切板，快去分享吧~")}// 防抖function share() {    debounce(share_, 300);}]]></content>
+        <content type="html"><![CDATA[var now = new Date();function createtime() {  // 当前时间  now.setTime(now.getTime() + 1000);  var start = new Date("01/01/2023 00:00:00"); // 旅行者1号开始计算的时间  var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒  var unit = (dis / 149600000).toFixed(6);  // 天文单位  var grt = new Date("01/01/2023 00:00:00");// 网站诞生时间  var days = (now - grt) / 1e3 / 60 / 60 / 24,    dnum = Math.floor(days),    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,    hnum = Math.floor(hours);  1 == String(hnum).length && (hnum = "0" + hnum);  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,    mnum = Math.floor(minutes);  1 == String(mnum).length && (mnum = "0" + mnum);  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,    snum = Math.round(seconds);  1 == String(snum).length && (snum = "0" + snum);  let currentTimeHtml = "";  (currentTimeHtml =    hnum < 18 && hnum >= 9    ? `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-科研摸鱼中.svg" title="什么时候才能追求生活的自由~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`    : `<img class="boardsign" src="https://sourcebucket.s3.ladydaily.com/badge/F小屋-下班休息啦.svg" title="下班了就该和家人一起放松休息玩耍~"><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),    document.getElementById("workboard") &&    (document.getElementById("workboard").innerHTML = currentTimeHtml);}// 设置重复执行函数，周期1000mssetInterval(() => {  createtime();}, 1000);]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>友联</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
       
-        <content type="html"><![CDATA[<p><div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div></p><p><link rel="stylesheet" href="/css/kslink.css"></p><script src="/js/kslink.js"></script>]]></content>
+        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 8" width="8px" height="8px"><circle cx="4" cy="4" r="4" opacity="1.0" fill="rgb(57, 197, 187)"/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime1.js"/>
+      <url>/js/runtime1.js</url>
+      
+        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2019-04-17 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (number(time[2])>7)){    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp" title="距离百年老店也就差不到一百年~"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript" title="这个点了应该去睡觉啦，熬夜对身体不好哦"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);</22)>]]></content>
       
     </entry>
     
@@ -711,6 +711,17 @@
     
     
     <entry>
+      <title>友联</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<p><div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div></p><p><link rel="stylesheet" href="/css/kslink.css"></p><script src="/js/kslink.js"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
@@ -722,44 +733,22 @@
     
     
     <entry>
-      <title>恋爱小屋</title>
-      <link href="/lovehome/index.html"/>
-      <url>/lovehome/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="9f75a880397af0c56356f92ed44a7f26af56bbde906ad405d363bb6eab6eded3">24192ee3beba83a9dc0f3becdf4156a2b8df1bbf6f6bb75bd3d6b56c9dd62f9b999cd6a75010dbda0bd0277563372a1a04d00259e7e3b52cbc266c50fd07d9a78e7b4f24322363ad51f3ebaf32a47ecce91d4df3b20451360c6c260e7b0cb2aeb5cb1d635495aabdc5485ccfed957cd375b92d1c1cbc67bf64562cd0fb93dd04ff8e2b052170f2252b2d3f9968ce35087c13eef4266610ec2fdfdcbc3b82628fb6964f73e4421d4eaf955f2fbb85c0aed2c16e3610694afdf16ad59c9efeef8341d435ae86c6a642474f8fb994866a2e64068f3c3a95d9936e38b73dc41ddbd9fe28d735ac36f05237e936c045c03861bc0fd238be748b12f8b182860f57920b720b5c94b091d353c7b1a855e093941b2023cff7923bef71a72a5cc269c5a2a23a3b145ed0412f3eb77675edd8881e96ffb37bcbe9965c2fd5d57273b4d470a869a016dc416b9b8bc92e8fe0b8cd18b94667ba4bc66110c1f113eb08e3be664fe084c8ff3318a6c3e070baf3ce67f04513afb7c076519cab7956ceb5ef2e36091876d92508bdcce85548ac818721a91cff6cafea15eeaf71155bb3e76ebe4679b90abfb3c21d002e9b0fef86e07cc28e9ec010eac289cdd6562f4bf856115ed0fcab7b3d3e323f44804b8fd8e6549ac1a33cc6e32e885ae00f6433a662974606ca13291e6e9ea31db5b9c9dbc4561c4a1a0323eff0c4822aba03390172817bce39315c1e25a5b3232870b4d150dc8ca5a2692eed19a0f44d6c1aa510026bc235234783bad088d10f231dab2d63080dacbfd3b830031dc009b1ec60e633de22adec10914ed0334062770c5a5dad6a20dec6a49e344540a0f6e7e7a6bf860bdcefe53ce8f9d2ca5aecafb297f1fa5afadef043eded728149aa700d541f91ad837cde230b4be01ae7083d75c43b5985e99232c6af71e37e2ffa19538f49f963cbda63443a98490108c66d4f5f3cb6d1a80e33a4346f09f7c82e1a1e12bd656230ec8e3076724cf967079a483ccd8a4ad2def7cc452862abe75035527fd62f4fec2029568059f125130e0c8429734e7798e049e902787f4db0ca29904ebff210640659d8b27ad0b0ba436c7dfe025adb9432a151e11d0bf5a8b6b0b0fdebbc671297f64ea465583f002e3db27ae80d765c8f96c972e6ef05e4dd782b949e6c026a40beddd0e2e34f88d963e43f42a765805e029aa0e81098983016249c2bf6f797ebdbbc5d7ced9a47704f9ab396927f1020fe3081f02d287c18c7cb6481810b5807f791f7a2d6021468c0bd43eb28250dc8a413b47efa448a7548acc6df542312b8fe56829c8b20bda3d39e9fa3ece88c775957bb354efcef9fad34543e18c770f81e0d9fee0a0cfbb0c8ab2eda555b320144c5010f7a20291b195ed1acb4246bab8324f1d88be89269e4664a22e2af12224071b8aa73df3766d7271c7f9e709590f2112ade1afa3f9f53fb53ca5f6d5bb4f816da9e4f281ea1edf3327cdc0c191ba3cee8f220ed5f050a0a73a80f7797c5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">这里记录着我和玥玥的快乐时光，需要密码才能进入嗷!!!.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>photo</title>
-      <link href="/photo/index.html"/>
-      <url>/photo/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://source.fomal.cc/img/default_cover_1.webp" alt="p1"><br><img src="https://source.fomal.cc/img/default_cover_2.webp" alt="p2"><br><img src="https://source.fomal.cc/img/default_cover_3.webp" alt="p3"><br><img src="https://source.fomal.cc/img/default_cover_4.webp" alt="p4"><br><img src="https://source.fomal.cc/img/default_cover_5.webp" alt="p5"><br><img src="https://source.fomal.cc/img/default_cover_6.webp" alt="p6"><br><img src="https://source.fomal.cc/img/default_cover_7.webp" alt="p7"><br><img src="https://source.fomal.cc/img/default_cover_8.webp" alt="p8"><br><img src="https://source.fomal.cc/img/default_cover_9.webp" alt="p9"><br><img src="https://source.fomal.cc/img/default_cover_10.webp" alt="p10"><br><img src="https://source.fomal.cc/img/default_cover_11.webp" alt="p11"><br><img src="https://source.fomal.cc/img/default_cover_12.webp" alt="p12"> </p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Web统计</title>
-      <link href="/webgit/index.html"/>
-      <url>/webgit/index.html</url>
-      
-        <content type="html"><![CDATA[<!-- GitCalendar容器 --><span class="p center logo">Github贡献日历📊</span><div id="gitZone"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/share.js"/>
+      <url>/js/share.js</url>
+      
+        <content type="html"><![CDATA[// 分享本页function share_() {    let url = window.location.origin + window.location.pathname    try {        // 截取标题        var title = document.title;        var subTitle = title.endsWith("| FloatingDream1001") ? title.substring(0, title.length - 14) : title;        navigator.clipboard.writeText('FloatingDream1001的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');        new Vue({            data: function () {                this.$notify({                    title: "成功复制分享信息🎉",                    message: "您现在可以通过粘贴直接跟小伙伴分享了！",                    position: 'top-left',                    offset: 50,                    showClose: true,                    type: "success",                     duration: 5000                });                // return { visible: false }            }        })    } catch (err) {        console.error('复制失败！', err);    }    // new ClipboardJS(".share", { text: function () { return '标题：' + document.title + '\n链接：' + url } });    // btf.snackbarShow("本页链接已复制到剪切板，快去分享吧~")}// 防抖function share() {    debounce(share_, 300);}]]></content>
       
     </entry>
     
@@ -788,11 +777,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/runtime1.js"/>
-      <url>/js/runtime1.js</url>
+      <title>photo</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
       
-        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2019-04-17 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (number(time[2])>7)){    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp" title="距离百年老店也就差不到一百年~"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class="boardsign" src="https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript" title="这个点了应该去睡觉啦，熬夜对身体不好哦"><div id="runtime">" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);</22)>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://source.fomal.cc/img/default_cover_1.webp" alt="p1"><br><img src="https://source.fomal.cc/img/default_cover_2.webp" alt="p2"><br><img src="https://source.fomal.cc/img/default_cover_3.webp" alt="p3"><br><img src="https://source.fomal.cc/img/default_cover_4.webp" alt="p4"><br><img src="https://source.fomal.cc/img/default_cover_5.webp" alt="p5"><br><img src="https://source.fomal.cc/img/default_cover_6.webp" alt="p6"><br><img src="https://source.fomal.cc/img/default_cover_7.webp" alt="p7"><br><img src="https://source.fomal.cc/img/default_cover_8.webp" alt="p8"><br><img src="https://source.fomal.cc/img/default_cover_9.webp" alt="p9"><br><img src="https://source.fomal.cc/img/default_cover_10.webp" alt="p10"><br><img src="https://source.fomal.cc/img/default_cover_11.webp" alt="p11"><br><img src="https://source.fomal.cc/img/default_cover_12.webp" alt="p12"> </p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Web统计</title>
+      <link href="/webgit/index.html"/>
+      <url>/webgit/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- GitCalendar容器 --><span class="p center logo">Github贡献日历📊</span><div id="gitZone"></div>]]></content>
       
     </entry>
     
