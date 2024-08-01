@@ -379,14 +379,7 @@
   </url>
   
   <url>
-    <loc>https://blog.yyfld.cn/tags/Recursion/</loc>
-    <lastmod>2024-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yyfld.cn/tags/Recursionhttps-bgresource-yyfld-cn/</loc>
+    <loc>https://blog.yyfld.cn/tags/LinkList/</loc>
     <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -400,7 +393,14 @@
   </url>
   
   <url>
-    <loc>https://blog.yyfld.cn/tags/LinkList/</loc>
+    <loc>https://blog.yyfld.cn/tags/Recursion/</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yyfld.cn/tags/Recursionhttps-bgresource-yyfld-cn/</loc>
     <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
